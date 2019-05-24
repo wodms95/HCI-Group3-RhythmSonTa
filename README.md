@@ -29,22 +29,25 @@ Photos & videos
 
 
 # 구현방법: 
-# Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objective of research
+Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objective of research
 ------------------------
 
 
 1. 구동환경 구현
 
- (1) 립모션 설치: https://www.leapmotion.com/setup/desktop/ 
-                 (해당 페이지에서 Windows, Mac, Linux 등 버전에 맞게 다운로드 가능)
- (2) 스크래치X 접속: http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch
+https://www.leapmotion.com/setup/desktop/ 
+http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch
+(해당 페이지에서 Windows, Mac, Linux 등 버전에 맞게 다운로드 가능)
 
 
 2. 구현원리
 
   * Leap Motion Controller는 컴퓨터와 USB를 활용, 연결시켜 사용하는 기기이다.
+  
   * 기기에 내장과 LED와 카메라 센서를 통해 움직임을 인식하여 화면으로 반영한다.
+  
     기기에서 8-cubic feet (2x2x2) 정도 떨어진 공간을 개략적으로 스캔하며, Leap Motion 기기는 양 손과, 10개 손가락을 모두 추적할 수 있다.
+    
   * Interaction 예)
     - 손을 움직임이 그대로 반영되어, 움직임에 따라 자신이 움직인 궤적이 나타나도록 함.
     - 손의 움직임으로 마우스의 기능을 대체할 수 있도록 함. (2초 이상 머물면 다음 화면 전환)
@@ -54,7 +57,9 @@ Photos & videos
 3. 장점
 
  - 학습자가 직접 참여해 손과 팔을 직접 움직이며 실제 지휘법을 익힐 수 있음
+ 
  - ScratchX를 활용하면 비교적 손쉽게 창의적인 컨텐츠 제작가능
+ 
  - 빠르고 간편하게 다양한 컨텐츠의 프로토타이핑 및 그래픽 등의 검토 가능
  - 
  
@@ -62,6 +67,7 @@ Photos & videos
 4. 한계점
 
  - 화면 크기, 해상도, 세부 동작 등의 구현에 있어 기술적 제약 존재.
+ 
  - 평가 기준의 미비.
 
 
