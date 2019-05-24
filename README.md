@@ -2,22 +2,21 @@
 LeapMotion을 활용한 지휘 프로그램
 [Leap Motion과 스크레치 사진 넣기]
 
-1. Members
------------------------
+
+Members
+
 21300207 김태운 / 21500431 유재은 / 21600202 나누리
 
-2. Topic
--------------------------------
- *
- 
- : The Program “Rhythm sonTA”  is an educational program, targeting for music learners. 
-  It is a program that allows students to learn how to conduct music and practice it for themselves. 
-  Through this program, learners can enhance their musical understanding and skill of conducting music.
+Agenda
 
-Expectation
------------------------
-: With a new, different learning method than before, it will be easy and fun to learn how to conduct music. 
-  Therefore, it can be possible to understand music in a more abundant way. 
+
+Purposes / Expectation
+
+리듬손타 프로그램은 교육용 프로그램으로서, 음악을 학습하는 학습자를 대상으로 지휘법을 배우고, 직접 실습할 수 있도록 하는 프로그램이다. 
+사용자는 이로 하여금 지휘법을 익히고 음악적 이해도를 높이는 데 그 의의가 있다. 
+기존과는 다른 색다른 학습법의 도입으로, 쉽고 재미있게 지휘법을 익힐 수 있을것이다. 
+또한, 그에 따라 음악을 좀 더 풍부하게 이해할 수 있을 것이라 생각된다.
+
   
 details
 ------------------------
