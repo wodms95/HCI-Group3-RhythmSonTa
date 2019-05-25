@@ -26,6 +26,24 @@ Photos & videos
 ----------------------
 ![prototyping](https://user-images.githubusercontent.com/42803425/57272681-ab8a0080-70cf-11e9-8839-8f9fc9430d39.png)
 
+화면 설명
+1. 시작 화면: 프로그램 로고와 함께 '게임시작','게임설명', 그리고 '환경설정'을 선택할 수 있다.
+2. 게인시작: '연습모드'와 '실전모드'를 선택할 수 있고 홈 버튼으로 시작화면으로, 뒤로가기 버튼으로 이전 페이지로 돌아갈 수 있다. 
+3. 연습모드: 연습할 수 있는 4가지 박자(2/4박, 3/4박, 4/4박, 6/8박)를 선택하여 연습모드를 진행할 수 있다. 
+4. 연습모드1: 선택한 박자에 따라서 해당 지휘법과 지휘 방법을 보고 학습할 수 있다.다음 버튼을 누를 경우 연습모드 2으로 넘아가게 된다. 
+5. 연습모드2: 선택한 박자의 지휘법을 실제로 연습할 수 있고 사용자가 움직이는 손 궤적에 따라 선을 만들어 사용자가 확인할 수 있다. 
+             반복적인 연습을 통해 지휘궤적이 겹쳐 식별이 어려울 경우를 대비하여 시간이 경과함에 따라 궤적의 색에 변화를 주었다.
+             다음 버튼을 누를 경우 연습모드 3으로 넘아가게 된다. 
+6. 연습모드3: 연습에 대한 축하와 이후 진행할 수 있는 방향성을 제시한다. 완료 버튼을 누를 경우 시작화면으로 돌아가게 된다. 
+7. 실전모드: 총 3가지 난이도 중 하나를 선택하여 지휘법을 연습할 수 있다. 
+8. 실전모드1: 선택한 난이도에 따라 해당하는 노래와 박자를 미리 알려준다. 확인 버튼을 누를 경우 실전모드2로, 취소 버튼을 누를 경우
+             이전 화면으로 넘어가게 된다. 
+9. 실전모드2: 선택한 난이도에 해당하는 노래가 플레이되고 노래에 맞는 악보가 나온다. 해당하는 지휘법에 따라 터치해야하는 포인트가 
+             나오게 되고 사용자의 손 궤적에 따라 그 포인트를 지나게 될 경우 다음 포인트가 나오고 사용자의 점수가 올라간다. 노래가
+             종료될 경우 실전모드 3으로 넘어가게 된다. 
+10. 실전모드3: 최종적으로 사용자가 획든한 점수와 노래에서 획득가능한 점수를 비교하여 100점 만점으로 점수를 보여준다. 완료 버튼을 누를 경우
+              시작화면으로 돌아가게 된다. 
+
 
 
 # 구현방법: 
@@ -75,49 +93,39 @@ Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objectiv
 as they move through the open space between you and your computer, the special software detects your hands and fingers and translates the data into information for your computer.
 ㅣ: https://www.leapmotion.com/setup/
 
-# 프로젝트 진행 과정
+
+5. 프로젝트 진행 과정
 
 [week2,3: idea development]
 
 [week4: storyboard 제작]
-
-![image](https://user-images.githubusercontent.com/48409392/58367788-36fff000-7f1e-11e9-8da4-3e0ae454564a.png)
+![image](https://user-images.githubusercontent.com/48409392/58367595-264e7a80-7f1c-11e9-93d0-13899f240512.png)
 
 [week5: 프로그램의 화면 구성 정리]
-
-![image](https://user-images.githubusercontent.com/48409392/58367791-4a12c000-7f1e-11e9-8cca-9094336136b6.png)
+![image](https://user-images.githubusercontent.com/48409392/58367566-cb1c8800-7f1b-11e9-8db7-2e5b09e8f24d.png)
 
 [week5-6: concept testing]
-
 ![image](https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png)
 * 구글폼으로 설문진행 (응답자: 46명)
 
-[week7: 악보 및 이미지 자료 수집]
-
+[week7: 악보 이미지 자료 수집]
 ![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
-[week8: poster session]
-
-![image](https://user-images.githubusercontent.com/48409392/58367783-0c159c00-7f1e-11e9-9f63-933e063c6908.png)
+[week8: presentation]
+![image](https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png)
 
 [week12: prototype testing]
-
-![image](https://user-images.githubusercontent.com/48409392/58367777-dffa1b00-7f1d-11e9-9589-2b38ad797683.png)
+![image](https://user-images.githubusercontent.com/48409392/58367641-be4c6400-7f1c-11e9-8d6e-76baff7150e7.png)
 
 [week13: final presentation]
-
 ![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
 
-
-# 결론
-  * 기존에 립모션을 접해보지 못한 사용자도 리듬손타 프로그램을 재미있게, 어려움 없이 사용하는 것을 테스팅을 통해 확인하였다.
-  이는, 쉽고 재미있게 지휘법을 배울 수 있는 프로그램을 만들고자 했던 초기 목적과 부합한다.
-  피드백들을 바탕으로 부족한 부분들을 수정한다면 지휘를 배우고 싶은 개개인 혹은 지휘를 가르치는 초등교육기관에서 유용하게 사용될 것을 기대한다.
-
-
+6. 결론
 
 
 # References
-  [1] 악보 이미지: 네이버 블로그 http://bit.ly/2K1xMDK
-  [2] 스크래치 프로그램 이미지: https://www.flaticon.com/
+  [1] 
+  [2] 
+  [3] 
+  ...
 
