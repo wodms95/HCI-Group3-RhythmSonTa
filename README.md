@@ -25,6 +25,7 @@ details
 Photos & videos
 ----------------------
 ![prototyping](https://user-images.githubusercontent.com/42803425/57272681-ab8a0080-70cf-11e9-8839-8f9fc9430d39.png)
+![photo](https://user-images.githubusercontent.com/31753348/58369151-869be700-7f31-11e9-9c85-45412efcea84.png)
 
 화면 설명
 1. 시작 화면: 프로그램 로고와 함께 '게임시작','게임설명', 그리고 '환경설정'을 선택할 수 있다.
