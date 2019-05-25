@@ -81,22 +81,28 @@ as they move through the open space between you and your computer, the special s
 [week2,3: idea development]
 
 [week4: storyboard 제작]
-![image](https://user-images.githubusercontent.com/48409392/58367595-264e7a80-7f1c-11e9-93d0-13899f240512.png)
+
+![image](https://user-images.githubusercontent.com/48409392/58367788-36fff000-7f1e-11e9-8da4-3e0ae454564a.png)
 
 [week5: 프로그램의 화면 구성 정리]
-![image](https://user-images.githubusercontent.com/48409392/58367566-cb1c8800-7f1b-11e9-8db7-2e5b09e8f24d.png)
+
+![image](https://user-images.githubusercontent.com/48409392/58367791-4a12c000-7f1e-11e9-8cca-9094336136b6.png)
 
 [week5-6: concept testing]
+
 ![image](https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png)
 * 구글폼으로 설문진행 (응답자: 46명)
 
 [week7: 악보 이미지 자료 수집]
+
 ![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
 [week8: poster session]
+
 ![image](https://user-images.githubusercontent.com/48409392/58367783-0c159c00-7f1e-11e9-9f63-933e063c6908.png)
 
 [week12: prototype testing]
+
 ![image](https://user-images.githubusercontent.com/48409392/58367777-dffa1b00-7f1d-11e9-9589-2b38ad797683.png)
 
 [week13: final presentation]
