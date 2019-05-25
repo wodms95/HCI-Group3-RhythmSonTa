@@ -108,6 +108,7 @@ as they move through the open space between you and your computer, the special s
 
 ![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
 
+
 # 결론
   * 기존에 립모션을 접해보지 못한 사용자도 리듬손타 프로그램을 재미있게, 어려움 없이 사용하는 것을 테스팅을 통해 확인하였다.
   이는, 쉽고 재미있게 지휘법을 배울 수 있는 프로그램을 만들고자 했던 초기 목적과 부합한다.
@@ -117,8 +118,6 @@ as they move through the open space between you and your computer, the special s
 
 
 # References
-  [1] 악보 이미지: https://m.blog.naver.com/PostView.nhn?blogId=yje1531&logNo=130182713743&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+  [1] 악보 이미지: 네이버 블로그 http://bit.ly/2K1xMDK
   [2] 스크래치 프로그램 이미지: https://www.flaticon.com/
-  [3] 
-  ...
 
