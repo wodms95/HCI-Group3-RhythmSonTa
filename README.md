@@ -97,9 +97,10 @@ as they move through the open space between you and your computer, the special s
 ![image](https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png)
 
 [week12: prototype testing]
-![image](https://user-images.githubusercontent.com/48409392/58367641-be4c6400-7f1c-11e9-8d6e-76baff7150e7.png)
+![image](https://user-images.githubusercontent.com/48409392/58367777-dffa1b00-7f1d-11e9-9589-2b38ad797683.png)
 
 [week13: final presentation]
+
 ![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
 
 6. 결론
