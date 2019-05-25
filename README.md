@@ -1,5 +1,5 @@
 # SIT32002-HCI-4조 리듬손타
-LeapMotion을 활용한 지휘 프로그램
+## LeapMotion을 활용한 지휘 프로그램
 
 <img width ="40%" src="https://user-images.githubusercontent.com/42803425/58370928-3596ed80-7f47-11e9-8f22-6fcaff3658d4.png"><img width ="60%" src="https://user-images.githubusercontent.com/42803425/58370934-53645280-7f47-11e9-9b5f-f284f2bcd034.png">
 
@@ -9,7 +9,6 @@ LeapMotion을 활용한 지휘 프로그램
   * 21300207 김태운 / 21500431 유재은 / 21600202 나누리
 
 
-## Outline
 
 ### Purposes / Expectation
 
