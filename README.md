@@ -78,21 +78,31 @@ as they move through the open space between you and your computer, the special s
 
 5. 프로젝트 진행 과정
 
-
+[week2,3: idea development]
 
 [week4: storyboard 제작]
-
+![image](https://user-images.githubusercontent.com/48409392/58367595-264e7a80-7f1c-11e9-93d0-13899f240512.png)
 
 [week5: 프로그램의 화면 구성 정리]
 ![image](https://user-images.githubusercontent.com/48409392/58367566-cb1c8800-7f1b-11e9-8db7-2e5b09e8f24d.png)
 
-week5-6: concept testing
+[week5-6: concept testing]
+![image](https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png)
+* 구글폼으로 설문진행 (응답자: 46명)
 
-week8: presentation
+[week7: 악보 이미지 자료 수집]
+![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
+[week8: presentation]
+![image](https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png)
 
+[week12: prototype testing]
+![image](https://user-images.githubusercontent.com/48409392/58367641-be4c6400-7f1c-11e9-8d6e-76baff7150e7.png)
 
-week13: final presentation
+[week13: final presentation]
+![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
+
+6. 결론
 
 
 # References
