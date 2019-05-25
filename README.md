@@ -1,9 +1,7 @@
 # SIT32002-HCI-4조 리듬손타
 LeapMotion을 활용한 지휘 프로그램
 
-
-![그림1](https://user-images.githubusercontent.com/42803425/58370928-3596ed80-7f47-11e9-8f22-6fcaff3658d4.png)
-![screenshot](https://user-images.githubusercontent.com/42803425/58370934-53645280-7f47-11e9-9b5f-f284f2bcd034.png)
+<img width ="40%" src="https://user-images.githubusercontent.com/42803425/58370928-3596ed80-7f47-11e9-8f22-6fcaff3658d4.png"><img width ="60%" src="https://user-images.githubusercontent.com/42803425/58370934-53645280-7f47-11e9-9b5f-f284f2bcd034.png">
 
 
 ### Members
