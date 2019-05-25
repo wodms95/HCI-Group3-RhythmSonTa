@@ -93,8 +93,8 @@ as they move through the open space between you and your computer, the special s
 [week7: 악보 이미지 자료 수집]
 ![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
-[week8: presentation]
-![image](https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png)
+[week8: poster session]
+![image](https://user-images.githubusercontent.com/48409392/58367783-0c159c00-7f1e-11e9-9f63-933e063c6908.png)
 
 [week12: prototype testing]
 ![image](https://user-images.githubusercontent.com/48409392/58367777-dffa1b00-7f1d-11e9-9589-2b38ad797683.png)
