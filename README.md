@@ -46,37 +46,34 @@
 
 ## 프로젝트 진행 과정
 
-[week2,3: idea development]
 
-[week4: storyboard 제작]
+* week2 - week3: idea development
 
-![image](https://user-images.githubusercontent.com/48409392/58367595-264e7a80-7f1c-11e9-93d0-13899f240512.png)
+* week4 - week5: storyboard 제작 및 프로그램 화면구성정리
 
-[week5: 프로그램의 화면 구성 정리]
+	<image width = "50%" src="https://user-images.githubusercontent.com/48409392/58367595-264e7a80-7f1c-11e9-93d0-13899f240512.png"> <image width = "45%" src="https://user-images.githubusercontent.com/48409392/58367566-cb1c8800-7f1b-11e9-8db7-2e5b09e8f24d.png">
 
-![image](https://user-images.githubusercontent.com/48409392/58367566-cb1c8800-7f1b-11e9-8db7-2e5b09e8f24d.png)
+* week5-6: concept testing - 구글폼으로 설문진행 (응답자: 46명)
 
-[week5-6: concept testing]
+	<image width = "100%" src="https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png"> 
 
-![image](https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png)
-* 구글폼으로 설문진행 (응답자: 46명)
 
-[week7: low-fidelity prototype-figma]
 
-* 악보 이미지 및 아이콘 다운로드
-![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
+* week7: low-fidelity prototype -figma
 
-[week8: presentation]
+	* 악보 이미지 및 아이콘 다운로드
+	* 피그마를 활용하여 tool-based prototyping 진행
 
-![image](https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png)
+	![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
-[week12: prototype testing]
+* week8: Mid-term presentation
 
-![image](https://user-images.githubusercontent.com/48409392/58369059-37a18200-7f30-11e9-9449-e8655d8bdc51.png)
+	<image width = "80%" src = "https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png">
+    
 
-[week13: final presentation]
+* week12 ~ week13: prototype testing & Final PT
 
-![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
+	<image width="50%" src = "https://user-images.githubusercontent.com/48409392/58369059-37a18200-7f30-11e9-9449-e8655d8bdc51.png"> <image width = "45%" src="https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png">
 
 
 
