@@ -124,8 +124,8 @@ as they move through the open space between you and your computer, the special s
 
 
 # References
-  [1] 
-  [2] 
-  [3] 
+  [1] 곰세마리 음악: http://bit.ly/2EwKYgm
+  [2] 곰세마리 악보: http://bit.ly/2K1xMDK
+  [3] 스크래치 이미지: https://www.flaticon.com/
   ...
 
