@@ -80,7 +80,7 @@ Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objectiv
  - ScratchX를 활용하면 비교적 손쉽게 창의적인 컨텐츠 제작가능
  
  - 빠르고 간편하게 다양한 컨텐츠의 프로토타이핑 및 그래픽 등의 검토 가능
- - 
+
  
 
 4. 한계점
@@ -115,7 +115,7 @@ as they move through the open space between you and your computer, the special s
 ![image](https://user-images.githubusercontent.com/48409392/58367626-89d8a800-7f1c-11e9-818c-14805e1cda01.png)
 
 [week12: prototype testing]
-![image](https://user-images.githubusercontent.com/48409392/58367641-be4c6400-7f1c-11e9-8d6e-76baff7150e7.png)
+![image](https://user-images.githubusercontent.com/48409392/58369059-37a18200-7f30-11e9-9449-e8655d8bdc51.png)
 
 [week13: final presentation]
 ![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
@@ -125,7 +125,8 @@ as they move through the open space between you and your computer, the special s
 
 # References
   [1] 곰세마리 음악: http://bit.ly/2EwKYgm
+  
   [2] 곰세마리 악보: http://bit.ly/2K1xMDK
+  
   [3] 스크래치 이미지: https://www.flaticon.com/
-  ...
 
