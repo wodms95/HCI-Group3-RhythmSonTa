@@ -108,7 +108,8 @@ as they move through the open space between you and your computer, the special s
 ![image](https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png)
 * 구글폼으로 설문진행 (응답자: 46명)
 
-[week7: 악보 이미지 자료 수집]
+[week7: low-fidelity prototype-figma]
+* 악보 이미지 및 아이콘 다운로드
 ![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
 [week8: presentation]
@@ -121,7 +122,7 @@ as they move through the open space between you and your computer, the special s
 ![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
 
 6. 결론
-
+기존에 립모션을 경험해보지 않은 사람들도 쉽고 재미있게 프로그램을 즐기는 것을 확인하였다. 컨셉 테스팅과 프로토타입 테스팅을 통해 받은 피드백을 바탕으로 프로그램을 수정하고 발전시킨다면 앞으로 지휘를 배우고 싶어하는 개인 혹은 초등교육집단에 의해 프로그램이 사용되어질 수 있을 것이라고 기대한다.
 
 # References
   [1] 곰세마리 음악: http://bit.ly/2EwKYgm
