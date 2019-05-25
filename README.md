@@ -35,10 +35,10 @@ Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objectiv
 
 1. 구동환경 구현
 
-[Downloads of Leap-Motion]https://www.leapmotion.com/setup/desktop/ 
+[Downloads of Leap-Motion] (https://www.leapmotion.com/setup/desktop/, "Downloads of Leap-Motion")
 (해당 페이지에서 Windows, Mac, Linux 등 버전에 맞게 다운로드 가능)
 
-[ScratchX] http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch
+[ScratchX] (http://scratchx.org/?url=http://khanning.github.io/scratch-leapmotion-extension/examples/Leap%20Motion%20Example%20-%20Hand%20Skeleton.sbx#scratch, "ScratchX")
 
 
 2. 구현원리
