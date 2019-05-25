@@ -75,8 +75,22 @@ Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objectiv
 as they move through the open space between you and your computer, the special software detects your hands and fingers and translates the data into information for your computer.
 ㅣ: https://www.leapmotion.com/setup/
 
+
 5. 프로젝트 진행 과정
 
+
+
+week4: storyboard 제작
+
+week5: 프로그램의 화면 구성 정리
+
+week5-6: concept testing
+
+week8: presentation
+
+
+
+week13: final presentation
 
 
 # References
