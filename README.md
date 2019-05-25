@@ -75,8 +75,7 @@ Leap Motion ver. 2.3.1 과 ScratchX를 활용하여 제작 Background & objectiv
 as they move through the open space between you and your computer, the special software detects your hands and fingers and translates the data into information for your computer.
 ㅣ: https://www.leapmotion.com/setup/
 
-
-5. 프로젝트 진행 과정
+# 프로젝트 진행 과정
 
 [week2,3: idea development]
 
@@ -93,7 +92,7 @@ as they move through the open space between you and your computer, the special s
 ![image](https://user-images.githubusercontent.com/48409392/58367615-61e94480-7f1c-11e9-9d83-860e0b11142e.png)
 * 구글폼으로 설문진행 (응답자: 46명)
 
-[week7: 악보 이미지 자료 수집]
+[week7: 악보 및 이미지 자료 수집]
 
 ![image](https://user-images.githubusercontent.com/48409392/58367753-8d206380-7f1d-11e9-88ec-af6248f86259.png)
 
@@ -109,12 +108,17 @@ as they move through the open space between you and your computer, the special s
 
 ![image](https://user-images.githubusercontent.com/48409392/58367694-2733dc00-7f1d-11e9-8cbb-647fb60b64c1.png)
 
-6. 결론
+# 결론
+  * 기존에 립모션을 접해보지 못한 사용자도 리듬손타 프로그램을 재미있게, 어려움 없이 사용하는 것을 테스팅을 통해 확인하였다.
+  이는, 쉽고 재미있게 지휘법을 배울 수 있는 프로그램을 만들고자 했던 초기 목적과 부합한다.
+  피드백들을 바탕으로 부족한 부분들을 수정한다면 지휘를 배우고 싶은 개개인 혹은 지휘를 가르치는 초등교육기관에서 유용하게 사용될 것을 기대한다.
+
+
 
 
 # References
-  [1] 
-  [2] 
+  [1] 악보 이미지: https://m.blog.naver.com/PostView.nhn?blogId=yje1531&logNo=130182713743&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+  [2] 스크래치 프로그램 이미지: https://www.flaticon.com/
   [3] 
   ...
 
